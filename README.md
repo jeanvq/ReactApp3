@@ -2,9 +2,6 @@
 
 A full-stack task management app built with **React + Vite** on the frontend and **Firebase Firestore** as the backend. Tasks are stored in the cloud in real time — no local server needed.
 
-![Task Logger](images/image.png)
-
----
 
 ## Features
 
